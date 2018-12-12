@@ -1,0 +1,11 @@
+
+
+1. 
+	a. From Job no we can fetch all the relevant details. Subject and contents are not stored in the database. so need more clarification on the same.
+	b. Multiple options is not required now, since from job_no we can fetch all the materials received from it. Later we can populate it accordingly.
+	
+2. This can be done. If any alignment issues, that needs to be taken care by Mr. Suresh Kumar(MD & CEO - Agkiya Technologies)
+3. Rework can be added. But creating a dedicated page for all those 4 status codes is not in the billing cycle. This needs to negotiated by Mr. Suresh Kumar(MD & CEO - Agkiya Technologies).
+4. All these are alignment issues and same has to be taken care by Mr. Suresh Kumar(MD & CEO - Agkiya Technologies)
+5. This will be looked into.
+6. Color differentiation for 2 different task status will be taken care.
