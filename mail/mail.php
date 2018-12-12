@@ -7,9 +7,9 @@ use PHPMailer\PHPMailer\Exception;
 //Load Composer's autoloader
 //require 'vendor/autoload.php';
 
-require '../src/Exception.php';
-require '../src/PHPMailer.php';
-require '../src/SMTP.php';
+require '../lib/Exception.php';
+require '../lib/PHPMailer.php';
+require '../lib/SMTP.php';
 
 require 'config.php';
 
